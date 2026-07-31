@@ -52,6 +52,14 @@ expense-tracker-api
 
 ---
 
+# Test Location
+
+This project follows the standard Maven directory structure.
+
+All JUnit test cases are located in:
+
+src/test/java
+
 ## Getting Started
 
 ### Prerequisites
