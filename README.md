@@ -84,7 +84,7 @@ cd Smart-Expense-Tracker-API
 ### Windows
 
 ```bash
-mvnw.cmd spring-boot:run
+.\mvnw.cmd spring-boot:run 
 ```
 
 ### Linux / macOS
